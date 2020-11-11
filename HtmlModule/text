@@ -57,4 +57,12 @@ Example is submitting a form by clicking on a button
 
  6. Classes and IDs - are used as Selectors
 
+7. A section element represents a generic section of a document or applicationA section, in this context, is a thematic grouping of content
+-Each section should be identified
+
+8. File types (index.pdf,index.html,index.docx) are three different file types.
+
+9.CSS- Cascading style sheet. It is used to control (color,backgroud,shape,animation effect, types of fonts) we use on our website
+-in css selectors are used to select html needed to be styled
+
 
