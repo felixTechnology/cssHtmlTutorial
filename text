@@ -47,3 +47,12 @@ Example is submitting a form by clicking on a button
 - <input type="email" placeholder="your email" /> This is an input field meant for an email.
 - Placeholder is a form value to guide the user what to put in the field
 
+15. Form grouping -Example if building a website and at the footer section you have (contact detail,map, news letter form) since the are all at
+     the same place at the buttom of the website ,it will be easier to group them so that applying background color once to the entire group.
+     -Grouping elements is useful to help maintain simple attributes across various elements
+     - grouping with (div) and (section) tags
+     -Let group (heading tag,paragraph tag, big tag, etc)
+
+     NOTE: Section tags (<section></section>) can serve as grouping tags to div tags
+
+
