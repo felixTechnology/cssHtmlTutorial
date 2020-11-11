@@ -7,3 +7,20 @@
 6.Meta Tag (UTF-8) has property of character set used to encode characters of the web
 6. viewport is in charge of the responsiveness of the website across all devices and screen sizes
 8.X-UA takes care of compatibility of your website to various browsers.
+
+9. A. Ordered List
+   B. Unordered List
+
+   ORDERED LIST
+   --------------
+   1.One
+   2. Two
+   3. Three
+
+   UNORDERED LISTS
+   -----------------
+   . ONE
+   . TWO
+   . THREE
+
+   To write an ordered list you have to declare that you are starting an ordered list using the tag (<ol><li></li></ol>)
