@@ -33,3 +33,17 @@ Assuming you want an input tag to accept password (password should not be in pla
 11. Image tag is a single tag and not a container tag. It takes an attribute of (src) which tells where the file is located
 -create a folder called img
 -place all your images in that folder
+
+12. Anchor tags used to create hyper links in our websites
+- Href attributes (use to redirect users to a link)
+-target attributes (use to open to a new tab)
+
+Attributes are placed in an opened tags.
+13. Button tags- It is used to create a call to action in the HTML file.
+Example is submitting a form by clicking on a button
+
+14. Form tag-used for creating a form for user input. It can contain text-fields, checkboxes, radio button etc.
+1. INPUT TAG with combination with form tag to create registration form
+- <input type="email" placeholder="your email" /> This is an input field meant for an email.
+- Placeholder is a form value to guide the user what to put in the field
+
