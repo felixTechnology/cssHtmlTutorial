@@ -1,2 +1,0 @@
-# cssHtmlTutorial
-personal css practice
