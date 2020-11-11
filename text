@@ -24,3 +24,12 @@
    . THREE
 
    To write an ordered list you have to declare that you are starting an ordered list using the tag (<ol><li></li></ol>)
+
+
+10. HTML Attributes- They are special words used inside the opening tags to control the element behaviour .
+Example: defining an attribute in an input tag. INPUT TAG is used to collect data from a user.
+Assuming you want an input tag to accept password (password should not be in plain text)
+
+11. Image tag is a single tag and not a container tag. It takes an attribute of (src) which tells where the file is located
+-create a folder called img
+-place all your images in that folder
