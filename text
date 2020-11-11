@@ -1,0 +1,9 @@
+1. Boiler plate tags can be gotten from (shift + !) and enter
+2. Container tags has open and close structure and have element between them
+3. Single tags don't have open and close tags. Thet are single and they take properties not elements (image,input tags etc)
+4. The HTML tag is a container tag (open and close tags) , all tags is written in it because it is a PARENT Tag.
+-The (lang) is a property that defines the language for the document
+5. Head tag is a container tag used to control the (META data and settings of the website)
+6.Meta Tag (UTF-8) has property of character set used to encode characters of the web
+6. viewport is in charge of the responsiveness of the website across all devices and screen sizes
+8.X-UA takes care of compatibility of your website to various browsers.
