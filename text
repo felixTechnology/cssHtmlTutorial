@@ -55,4 +55,6 @@ Example is submitting a form by clicking on a button
 
      NOTE: Section tags (<section></section>) can serve as grouping tags to div tags
 
+ 6. Classes and IDs - are used as Selectors
+
 
