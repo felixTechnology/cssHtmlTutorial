@@ -79,4 +79,6 @@ Example is submitting a form by clicking on a button
 -Margins are used to create space around an element outside it defined borders
 -Paddings are used to create space around the content of an element inside the defined borders
 
+13. To understand (box-sizing) go to https://www.freecodecamp.org/news/how-to-use-the-css-box-sizing-property/
+
 

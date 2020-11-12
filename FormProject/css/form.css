@@ -4,5 +4,60 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    background-image: url("../img/pexels-kebs-visuals-4390518.jpg");
+    background-size: cover;
+    background-position: center;
+    font-size: 13px;
+    opacity: 0.8;
+
+}
+
+.form-section{
+
+    height: 320px;
+    width: 400px;
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    margin-left: 500px;
+    box-sizing: border-box;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+
+.img-class{
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 120px;
+}
+
+form p{
+    margin-left: 100px;
+}
+
+form input{
+    margin-left: 60px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+form button{
+    height: 30px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+form .forgot-password{
+    margin-left: 85px;
+    text-decoration: none;
+    color: white;
+
 
 }
