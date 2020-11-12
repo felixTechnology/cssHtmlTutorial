@@ -65,4 +65,6 @@ Example is submitting a form by clicking on a button
 9.CSS- Cascading style sheet. It is used to control (color,backgroud,shape,animation effect, types of fonts) we use on our website
 -in css selectors are used to select html needed to be styled
 
+10. Height and Width - In css we can assign Height as a Property and width also as a property.
+
 
