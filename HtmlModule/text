@@ -67,4 +67,13 @@ Example is submitting a form by clicking on a button
 
 10. Height and Width - In css we can assign Height as a Property and width also as a property.
 
+11. Google Font.
+- Go to (fonts.google.com)
+-search for your type of font (example: poppins font)
+-select the size of the font (example: regular 400)
+-click on the + icon
+-copy the link and paste in the head tag of your html after your css code.
+-go back to the google font and copy the (specify in CSS) and paste in your CSS file(in your css file open body tag and paste it as default)
+
+
 
