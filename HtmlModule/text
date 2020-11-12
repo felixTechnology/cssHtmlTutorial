@@ -75,5 +75,8 @@ Example is submitting a form by clicking on a button
 -copy the link and paste in the head tag of your html after your css code.
 -go back to the google font and copy the (specify in CSS) and paste in your CSS file(in your css file open body tag and paste it as default)
 
+12. Padding and margins
+-Margins are used to create space around an element outside it defined borders
+-Paddings are used to create space around the content of an element inside the defined borders
 
 
