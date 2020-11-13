@@ -1,0 +1,81 @@
+1. Download VSCode (code.visualstudio.com)
+-click on Download for Windows
+
+2.Go to bootstrap and copy starter template
+- go to (getbootstrap.com/docs/4.5/getting-started/introduction/)
+-paste in your index.html file
+-copy the JS script link (as well)
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+-paste it before the body tag
+-
+3. Go to (google font family) fonts.google.com
+-example (poppins and regular 400) and copy the embedded link and paste in your head tag of html
+- copy the other info (CSS rules to specify families) example:font-family: 'Poppins', sans-serif;
+
+4. In bootstrap we can pass (h1,h2,h3,h4,etc) as a a class to (p tag)
+
+example <p> class="h1">Ghana is great</p>
+
+5. Text muting - Ex: <p class="h1 text-muted"> This is the first time you are seeing this</p>
+
+6.Display class : example (<p class="display-1"> My File</p>) we have (display- 1) to (display-4)
+
+7. Align text - to center : <p class="text-center>This is my text</p>)
+
+8. 7. Align text - to right : <p class="text-right>This is my text</p>)
+9.  Align text - to left : <p class="text-left>This is my text</p>)
+10. Unordered List tag
+<ul>
+   <li> One </li>
+   <li> Two </li>
+    <li> Three </li>
+</ul>
+
+11. Displaying unordered list in an inline
+<ul class="list-inline">
+   <li class="list-inline-item"> One </li>
+   <li class="list-inline-item"> Two </li>
+   <li class="list-inline-item"> Three </li>
+</ul>
+
+12. Grid system in Bootstrap
+
+<div class="container">
+    <div class="row">
+       <div class="col-md-4">
+         <p>This is bootstrap</p>
+       </div>
+
+        <div class="col-md-4">
+                <p>This is bootstrap</p>
+        </div>
+
+         <div class="col-md-4">
+                 <p>This is bootstrap</p>
+           </div>
+    </div>
+
+
+     <div class="row">
+           <div class="col-md-6">
+             <p>This is bootstrap</p>
+           </div>
+
+            <div class="col-md-6">
+                    <p>This is bootstrap</p>
+            </div>
+
+        </div>
+
+
+</div>
+OR
+
+<div class="container-fluid">
+    <div class="row">
+       <div class="col">
+         <p>This is bootstrap</p>
+       </div>
+    </div>
+</div>
