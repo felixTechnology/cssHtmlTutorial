@@ -22,3 +22,97 @@ header{
     padding: 20px 0 0 0;
 
 }
+
+header ul{
+    padding: 0;
+    margin: 0;
+}
+
+header li{
+    float: left;
+    padding: 0 20px 0 20px;
+    display: inline;
+}
+
+header li a{
+    color: white;
+    text-decoration: none;
+}
+
+header .logo{
+    float: left;
+}
+
+header .logo h3{
+    margin: 0;
+}
+
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+
+header a:hover{
+    color: grey;
+    font-weight: bolder;
+}
+
+#banner-section{
+    min-height: 600px;
+    background-image: url("../img/pexels-gustavo-fring-3983665.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#booking{
+    background-color: #1b1e23;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+#booking h3{
+    padding: 0;
+}
+
+#booking button{
+    padding: 0;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 100px;
+    cursor: pointer;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+}
+
+#booking button a{
+    color: #1b1e23;
+    text-decoration: none;
+}
+
+#tiles{
+    margin-top: 20px;
+}
+
+#tiles .square{
+    width: 30%;
+    float: left;
+    padding: 10px;
+    text-align: center;
+    min-height: 350px;
+}
+
+#tiles .square img{
+    border-radius: 50px;
+    height: 80px;
+    width: 80px;
+}
+
+#footer{
+    background-color: #1b1e23;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
